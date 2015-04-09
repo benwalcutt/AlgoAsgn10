@@ -1,0 +1,4 @@
+Setup time: 0.003 seconds
+Linked list time: 0.024 seconds
+Counting sort time: 0.005 seconds
+Cleanup time: 0 seconds
